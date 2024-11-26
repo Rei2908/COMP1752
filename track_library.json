@@ -1,0 +1,23 @@
+{
+    "1": {
+        "name": "fly_me_to_the_moon",
+        "artist": "bvb",
+        "rating": 1,
+        "play_count": 0,
+        "file_path": "/Users/nguyenminhtri/Library/CloudStorage/OneDrive-UniversityofGreenwich/COMP1752/Proto 15/music/fly_me_to_the_moon.mp3"
+    },
+    "2": {
+        "name": "Binh Tinh",
+        "artist": "Unknown Artist",
+        "rating": 0,
+        "play_count": 0,
+        "file_path": "/Users/nguyenminhtri/Library/CloudStorage/OneDrive-UniversityofGreenwich/COMP1752/Proto 15/music/Binh Tinh.mp3"
+    },
+    "3": {
+        "name": "happy_nation",
+        "artist": "Unknown Artist",
+        "rating": 0,
+        "play_count": 0,
+        "file_path": "/Users/nguyenminhtri/Library/CloudStorage/OneDrive-UniversityofGreenwich/COMP1752/Proto 15/music/happy_nation.mp3"
+    }
+}
